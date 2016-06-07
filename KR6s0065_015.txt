@@ -1,12 +1,12 @@
 # -*- mode: mandoku-view; -*-
-#+DATE: 2016-06-08 6:14
+#+DATE: 2016-06-08 6:15
 #+TITLE: 諸佛世尊如來菩薩尊者名稱歌曲
 #+PROPERTY: CBETA_ID P179n1612
 #+PROPERTY: ID KR6s0065
 #+PROPERTY: SOURCE Northern Yongle Edition of the Canon Vol. 179, No. 1612
 #+PROPERTY: VOL 179
 #+PROPERTY: BASEEDITION P
-#+PROPERTY: WITNESS master
+#+PROPERTY: WITNESS 
 #+PROPERTY: LASTPB <pb:KR6s0065_P_015-0749a> 
 #+PROPERTY: JUAN 15
 諸佛世尊如來菩薩尊者名稱歌曲卷第十¶
@@ -441,7 +441,7 @@
 #+END_VERSE
 ¶
 
-** 住靜慮之曲(即忒忒令)¶
+** 住靜慮之曲(即[忒-弋+戈][忒-弋+戈]令)¶
 
 #+BEGIN_VERSE
 「　敬皈依平等須彌靣佛。普光明奮迅光王佛。¶於一切眾生誓鎧無脫佛。無量雄猛形法佛。¶無生佛。常求佛。目犍連性佛。」
@@ -1026,7 +1026,7 @@
 又¶
 
 #+BEGIN_VERSE
-「　佛。敬禮龍王護眾佛。皈依珍寶吼聲佛。稽首
+「　佛。敬禮龍王護眾佛。皈依[玝-十+小]寶吼聲佛。稽首
 <pb:KR6s0065_P_015-0778a>¶十方聞名一切世愛佛。南無光明世界智光¶明佛。
 　(和)唵嘛呢叭𡄣吽。」
 #+END_VERSE

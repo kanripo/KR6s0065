@@ -1,18 +1,18 @@
 # -*- mode: mandoku-view; -*-
-#+DATE: 2016-06-08 6:14
+#+DATE: 2016-06-08 6:15
 #+TITLE: 諸佛世尊如來菩薩尊者名稱歌曲
 #+PROPERTY: CBETA_ID P179n1612
 #+PROPERTY: ID KR6s0065
 #+PROPERTY: SOURCE Northern Yongle Edition of the Canon Vol. 179, No. 1612
 #+PROPERTY: VOL 179
 #+PROPERTY: BASEEDITION P
-#+PROPERTY: WITNESS master
+#+PROPERTY: WITNESS 
 #+PROPERTY: LASTPB <pb:KR6s0065_P_017-0807a> 
 #+PROPERTY: JUAN 17
 諸佛世尊如來菩薩尊者名稱歌曲卷第十¶
 七　　　　　　　　　　　　　　塞七¶
 
-** 無罣礙之曲(即伊州三臺令)¶
+** 無[(ㄇ@(企-止))/圭]礙之曲(即伊州三臺令)¶
 
 #+BEGIN_VERSE
 「　無畏上日月如來。妙勝龍仙如來。自境界如¶來。善明燈寶相如來。」
@@ -71,7 +71,7 @@
 #+END_VERSE
 ¶
 
-** 又無罣礙之曲(即伊州三臺令)¶
+** 又無[(ㄇ@(企-止))/圭]礙之曲(即伊州三臺令)¶
 
 #+BEGIN_VERSE
 「　無比月寶蓋如來。勝上娑羅如來。大主領如¶來。大光明寶力如來。」
@@ -130,7 +130,7 @@
 #+END_VERSE
 ¶
 
-** 又無罣礙之曲(即伊州三臺令)¶
+** 又無[(ㄇ@(企-止))/圭]礙之曲(即伊州三臺令)¶
 
 #+BEGIN_VERSE
 「　善建立一蓋如來。紫上善恩如來。見真諦如¶來。普光明寂定如來。」
@@ -189,7 +189,7 @@
 #+END_VERSE
 ¶
 
-** 又無罣礙之曲(即伊州三臺令)¶
+** 又無[(ㄇ@(企-止))/圭]礙之曲(即伊州三臺令)¶
 
 #+BEGIN_VERSE
 「　天王藏智勝如來。善德然燈如來。善住意如¶來。自光明智者如來。」

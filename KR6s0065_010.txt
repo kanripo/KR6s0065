@@ -1,12 +1,12 @@
 # -*- mode: mandoku-view; -*-
-#+DATE: 2016-06-08 6:14
+#+DATE: 2016-06-08 6:15
 #+TITLE: 諸佛世尊如來菩薩尊者名稱歌曲
 #+PROPERTY: CBETA_ID P179n1612
 #+PROPERTY: ID KR6s0065
 #+PROPERTY: SOURCE Northern Yongle Edition of the Canon Vol. 179, No. 1612
 #+PROPERTY: VOL 179
 #+PROPERTY: BASEEDITION P
-#+PROPERTY: WITNESS master
+#+PROPERTY: WITNESS 
 #+PROPERTY: LASTPB <pb:KR6s0065_P_010-0597a> 
 #+PROPERTY: JUAN 10
 諸佛世尊如來菩薩尊者名稱歌曲卷第十¶
@@ -510,7 +510,7 @@
 ** 治地住之曲(即摸魚子)¶
 
 #+BEGIN_VERSE
-「　敬皈依主如來佛。南無離暗如來佛。盛威無¶缺求那聚求那相如來佛。如來佛。大座燄師
+「　敬皈依主如來佛。南無離暗如來佛。盛威無¶[卸-ㄗ+夬]求那聚求那相如來佛。如來佛。大座燄師
 <pb:KR6s0065_P_010-0611b>¶子奮迅如來佛。眾如來佛。寶燄山功德大仙¶火燈大步如來佛。」
 #+END_VERSE
 
@@ -857,7 +857,7 @@
 #+END_VERSE
 
 #+BEGIN_VERSE
-「　○脫取度¶泥諸如來。雲域庠音不損諸如來。寂意月齊¶諸如來。軍陀法手諸如來。」
+「　○脫取度¶泥諸如來。雲域庠音不[損-口+ㄙ]諸如來。寂意月齊¶諸如來。軍陀法手諸如來。」
 #+END_VERSE
 ¶
 
