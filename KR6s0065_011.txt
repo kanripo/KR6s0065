@@ -1,12 +1,12 @@
 # -*- mode: mandoku-view; -*-
-#+DATE: 2016-06-08 6:14
+#+DATE: 2016-06-08 6:15
 #+TITLE: 諸佛世尊如來菩薩尊者名稱歌曲
 #+PROPERTY: CBETA_ID P179n1612
 #+PROPERTY: ID KR6s0065
 #+PROPERTY: SOURCE Northern Yongle Edition of the Canon Vol. 179, No. 1612
 #+PROPERTY: VOL 179
 #+PROPERTY: BASEEDITION P
-#+PROPERTY: WITNESS master
+#+PROPERTY: WITNESS K
 #+PROPERTY: LASTPB <pb:KR6s0065_P_011-0629a> 
 #+PROPERTY: JUAN 11
 諸佛世尊如來菩薩尊者名稱歌曲卷第十¶
@@ -507,7 +507,7 @@
 #+END_VERSE
 ¶
 
-** 緫三藏之曲(即滿庭芳)¶
+** 緫三藏之曲(即滿[庭-壬+手]芳)¶
 
 #+BEGIN_VERSE
 「　敬禮大音聲菩薩。寶心菩薩。天勝藏菩薩。無¶量普光師子幢諸菩薩。喜見菩薩。普一切無¶邊智日幢菩薩。南無法界響聲諸佛菩薩。佛¶菩薩。月幢菩薩。大勇猛力諸佛菩薩。」
@@ -615,7 +615,7 @@
 又¶
 
 #+BEGIN_VERSE
-「　稽首皈依常淨菩薩。解甚深義密意菩薩。南¶無無礙轉法輪菩薩。佛菩薩。出一切憂冥菩¶薩摩訶薩。」
+「　稽首皈依常淨菩薩。解甚深義密意菩薩。南¶無無礙轉法輪菩薩。佛菩薩。出一切憂[冗-几+具]菩¶薩摩訶薩。」
 #+END_VERSE
 ¶
 

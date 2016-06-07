@@ -1,12 +1,12 @@
 # -*- mode: mandoku-view; -*-
-#+DATE: 2016-06-08 6:14
+#+DATE: 2016-06-08 6:15
 #+TITLE: 諸佛世尊如來菩薩尊者名稱歌曲
 #+PROPERTY: CBETA_ID P179n1612
 #+PROPERTY: ID KR6s0065
 #+PROPERTY: SOURCE Northern Yongle Edition of the Canon Vol. 179, No. 1612
 #+PROPERTY: VOL 179
 #+PROPERTY: BASEEDITION P
-#+PROPERTY: WITNESS master
+#+PROPERTY: WITNESS K
 #+PROPERTY: LASTPB <pb:KR6s0065_P_009-0567a> 
 #+PROPERTY: JUAN 9
 諸佛世尊如來菩薩尊者名稱歌曲卷第九¶
@@ -610,7 +610,7 @@
 ** 又聞正法之曲(即忽都白)¶
 
 #+BEGIN_VERSE
-「　一切帶鎧甲如來。善梵齒如來。一切瞿那所¶生如來。諸類利益願如來。大燈如來。商王如¶來。法特如來。不缺名如來。火光明如來。」
+「　一切帶鎧甲如來。善梵齒如來。一切瞿那所¶生如來。諸類利益願如來。大燈如來。商王如¶來。法特如來。不[卸-ㄗ+夬]名如來。火光明如來。」
 #+END_VERSE
 ¶
 
@@ -647,7 +647,7 @@
 ** 又微妙義之曲(即早香)¶
 
 #+BEGIN_VERSE
-「　敬皈依。齊頂禮。瞿那曼上世如來。敵怨調。堅¶牢如來。定隨聞。佛如來。敬頂禮甜鳴善意者¶如來。」
+「　敬皈依。齊頂禮。瞿那[曼-又+万]上世如來。敵怨調。堅¶牢如來。定隨聞。佛如來。敬頂禮甜鳴善意者¶如來。」
 #+END_VERSE
 ¶
 
@@ -828,7 +828,7 @@
 #+END_VERSE
 ¶
 
-** 除二障之曲(即後庭花)
+** 除二障之曲(即後[庭-壬+手]花)
 <pb:KR6s0065_P_009-0587b>¶
 
 #+BEGIN_VERSE

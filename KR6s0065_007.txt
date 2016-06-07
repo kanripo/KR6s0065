@@ -1,12 +1,12 @@
 # -*- mode: mandoku-view; -*-
-#+DATE: 2016-06-08 6:14
+#+DATE: 2016-06-08 6:15
 #+TITLE: 諸佛世尊如來菩薩尊者名稱歌曲
 #+PROPERTY: CBETA_ID P179n1612
 #+PROPERTY: ID KR6s0065
 #+PROPERTY: SOURCE Northern Yongle Edition of the Canon Vol. 179, No. 1612
 #+PROPERTY: VOL 179
 #+PROPERTY: BASEEDITION P
-#+PROPERTY: WITNESS master
+#+PROPERTY: WITNESS K
 #+PROPERTY: LASTPB <pb:KR6s0065_P_007-0519a> 
 #+PROPERTY: JUAN 7
 諸佛世尊如來菩薩尊者名稱歌曲卷第七¶
@@ -331,7 +331,7 @@
 ** 又悟聲聞之曲(即尾聲)¶
 
 #+BEGIN_VERSE
-「　稽首牽幢王曲躬眼如來。稽首最上行觀世¶音如來。稽首日光幢吉祥意因如來。稽首呌¶力王如來。稽首金剛利如來。無垢憶月分段¶香象光王如來。」
+「　稽首牽幢王曲躬眼如來。稽首最上行觀世¶音如來。稽首日光幢吉祥意因如來。稽首呌¶力王如來。稽首金剛利如來。無垢憶月分[(暇-日)-(己-(乳-孚))+几]¶香象光王如來。」
 #+END_VERSE
 ¶
 

@@ -1,12 +1,12 @@
 # -*- mode: mandoku-view; -*-
-#+DATE: 2016-06-08 6:14
+#+DATE: 2016-06-08 6:15
 #+TITLE: 諸佛世尊如來菩薩尊者名稱歌曲
 #+PROPERTY: CBETA_ID P179n1612
 #+PROPERTY: ID KR6s0065
 #+PROPERTY: SOURCE Northern Yongle Edition of the Canon Vol. 179, No. 1612
 #+PROPERTY: VOL 179
 #+PROPERTY: BASEEDITION P
-#+PROPERTY: WITNESS master
+#+PROPERTY: WITNESS K
 #+PROPERTY: LASTPB <pb:KR6s0065_P_003-0395a> 
 #+PROPERTY: JUAN 3
 諸佛世尊如來菩薩尊者名稱歌曲卷第三¶
@@ -182,7 +182,7 @@
 又¶
 
 #+BEGIN_VERSE
-「　南無普現佛。三世華光佛。旃檀窟莊嚴勝佛。¶無缺精進佛。南無覺伏濤波佛。無邊堅固光¶明佛。南無極上音聲佛。天自在超越諸法佛。」
+「　南無普現佛。三世華光佛。旃檀窟莊嚴勝佛。¶無[卸-ㄗ+夬]精進佛。南無覺伏濤波佛。無邊堅固光¶明佛。南無極上音聲佛。天自在超越諸法佛。」
 #+END_VERSE
 ¶
 
@@ -428,7 +428,7 @@
 
 #+BEGIN_VERSE
 「　至敬頂禮明讚梵天佛。滅過佛師子身佛。南¶無定意佛世明佛。持鬘華藏佛。無懼佛梵財
-<pb:KR6s0065_P_003-0406a>¶佛。一切梵壽無損佛。樂智觀身佛。南無師子¶頰佛。」
+<pb:KR6s0065_P_003-0406a>¶佛。一切梵壽無[損-口+ㄙ]佛。樂智觀身佛。南無師子¶頰佛。」
 #+END_VERSE
 ¶
 

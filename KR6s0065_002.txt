@@ -1,12 +1,12 @@
 # -*- mode: mandoku-view; -*-
-#+DATE: 2016-06-08 6:14
+#+DATE: 2016-06-08 6:15
 #+TITLE: 諸佛世尊如來菩薩尊者名稱歌曲
 #+PROPERTY: CBETA_ID P179n1612
 #+PROPERTY: ID KR6s0065
 #+PROPERTY: SOURCE Northern Yongle Edition of the Canon Vol. 179, No. 1612
 #+PROPERTY: VOL 179
 #+PROPERTY: BASEEDITION P
-#+PROPERTY: WITNESS master
+#+PROPERTY: WITNESS K
 #+PROPERTY: LASTPB <pb:KR6s0065_P_002-0363a> 
 #+PROPERTY: JUAN 2
 諸佛世尊如來菩薩尊者名稱歌曲卷第二¶
@@ -284,7 +284,7 @@
 又¶
 
 #+BEGIN_VERSE
-「　南無淨妙聲波頭摩聲佛。南無然法庭燎佛。¶妙聲佛。南無淨幢佛。普禪佛。南無慧聲佛。」
+「　南無淨妙聲波頭摩聲佛。南無然法[庭-壬+手]燎佛。¶妙聲佛。南無淨幢佛。普禪佛。南無慧聲佛。」
 #+END_VERSE
 ¶
 

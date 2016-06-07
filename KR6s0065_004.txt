@@ -1,12 +1,12 @@
 # -*- mode: mandoku-view; -*-
-#+DATE: 2016-06-08 6:14
+#+DATE: 2016-06-08 6:15
 #+TITLE: 諸佛世尊如來菩薩尊者名稱歌曲
 #+PROPERTY: CBETA_ID P179n1612
 #+PROPERTY: ID KR6s0065
 #+PROPERTY: SOURCE Northern Yongle Edition of the Canon Vol. 179, No. 1612
 #+PROPERTY: VOL 179
 #+PROPERTY: BASEEDITION P
-#+PROPERTY: WITNESS master
+#+PROPERTY: WITNESS K
 #+PROPERTY: LASTPB <pb:KR6s0065_P_004-0425a> 
 #+PROPERTY: JUAN 4
 諸佛世尊如來菩薩尊者名稱歌曲卷第四¶
@@ -173,7 +173,7 @@
 <pb:KR6s0065_P_004-0431a>¶
 
 #+BEGIN_VERSE
-「　南無無量法雲孔王佛。無邊功德寶作佛。日¶月光明無為思惟一切大聲慧無缺失佛。彌¶留佛。敬愛佛。常勝意佛。不可思議諸種清淨¶光明佛。稽首大悲尊普照普觀師子奮迅堅¶心善覺佛。智自在一切大精進懷佛。智自在¶一切大精進懷佛。南無豐光佛。破金剛堅佛。¶不可思議廣莊嚴王佛。」
+「　南無無量法雲孔王佛。無邊功德寶作佛。日¶月光明無為思惟一切大聲慧無[卸-ㄗ+夬]失佛。彌¶留佛。敬愛佛。常勝意佛。不可思議諸種清淨¶光明佛。稽首大悲尊普照普觀師子奮迅堅¶心善覺佛。智自在一切大精進懷佛。智自在¶一切大精進懷佛。南無豐光佛。破金剛堅佛。¶不可思議廣莊嚴王佛。」
 #+END_VERSE
 ¶
 
